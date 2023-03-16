@@ -1,6 +1,7 @@
 buildscript {
     ext {
         compose_version = '1.4.0'
+        compose_ui_version = '1.2.0'
     }
 }/*
  * Copyright (c) 2022 The Android Open Source Project
